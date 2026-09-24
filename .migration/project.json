@@ -1,0 +1,9 @@
+{
+  "sites": {
+    "testsite": {
+      "previewOrg": "pmargiot",
+      "previewSite": "testsite",
+      "contentHostUrl": "https://content.da.live/pmargiot/testsite/"
+    }
+  }
+}
